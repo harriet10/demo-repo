@@ -1,3 +1,7 @@
 # DEMO
 
-First Trial!!
+First sTrial!!
+
+## Introduction to git
+
+Watch videos on youtube.
